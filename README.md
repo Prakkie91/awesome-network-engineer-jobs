@@ -25,11 +25,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Enterprise Architect - Presales](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Illinois/Enterprise-Architect---Presales_R155415)** — _n/a_ _(posted 2025-05-01)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lntndfegmclfgsxy8sgc.webp" width="24" height="24" alt="Aisera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aisera](https://jobo.world/company/Aisera)
-
-* **[Solutions Architect (Post Sales), Federal](https://job-boards.greenhouse.io/aiserajobs/jobs/5531729004)** — _n/a_ _(posted 2025-05-03)_
-* **[Solutions Architect (Post Sales)](https://job-boards.greenhouse.io/aiserajobs/jobs/5436037004)** — _n/a_ _(posted 2025-04-16)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ytq0iq1fcp579zoqmu0w.webp" width="24" height="24" alt="Aledade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aledade](https://jobo.world/company/Aledade)
 
 * **[Staff Security Engineer - Data Protection (Data Security Architect), Remote](https://jobs.lever.co/aledade/d290a65b-e176-4cc2-b210-90f338e359e8)** — _n/a_ _(posted 2025-02-05)_
@@ -40,12 +35,14 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/arqrlkg67jupy2stbahu.webp" width="24" height="24" alt="Altium logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altium](https://jobo.world/company/Altium)
 
+* **[Professional Services Solutions Architect](https://job-boards.greenhouse.io/altium/jobs/4575053006)** — _n/a_ _(posted 2025-06-12)_
 * **[ELM DevOps Engineer](https://job-boards.greenhouse.io/altium/jobs/4450533006)** — _n/a_ _(posted 2025-06-05)_
 * **[Senior Enterprise Solution Architect](https://job-boards.greenhouse.io/altium/jobs/4552330006)** — _n/a_ _(posted 2025-04-02)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p52hiqeoimb147fba2ym.webp" width="24" height="24" alt="Ambient.ai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ambient.ai](https://jobo.world/company/Ambient-AI)
 
-* **[Senior Sales Engineer](https://jobs.ashbyhq.com/ambient.ai/f6e159df-9a4d-43db-8049-757452eeb5e0)** — $120,000 – $150,000 USD _(posted 2025-05-31)_
+* **[Senior Sales Engineer](https://jobs.ashbyhq.com/ambient.ai/bbb82c69-cf0a-4934-8dce-7a42ec9f9395)** — _n/a_ _(posted 2025-05-31)_
+* **[Senior Sales Engineer](https://jobs.ashbyhq.com/ambient.ai/f6e159df-9a4d-43db-8049-757452eeb5e0)** — ¤120,000 – ¤150,000 USD _(posted 2025-05-31)_
 * **[Senior Sales Engineer](https://jobs.ashbyhq.com/ambient.ai/23295ce8-78de-499c-85d6-175e3bdd7988)** — _n/a_ _(posted 2025-05-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/chwihdihlaepndnkqagr.webp" width="24" height="24" alt="Angi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angi](https://jobo.world/company/Angi)
@@ -67,11 +64,10 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
 
 * **[Infrastructure Engineer](https://jobs.ashbyhq.com/reteam/8cfd5149-0d84-4485-ac22-96d67a823fcf)** — _n/a_ _(posted 2025-03-12)_
-* **[Engineer Who Can Design - Americas](https://jobs.ashbyhq.com/ashby/145ff46b-1441-4773-bcd3-c8c90baa598a)** — $170,000 – $260,000 USD _(posted 2025-03-12)_
+* **[Engineer Who Can Design - Americas](https://jobs.ashbyhq.com/ashby/145ff46b-1441-4773-bcd3-c8c90baa598a)** — ¤170,000 – ¤260,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kvoglsnzr9qoignq1v12.webp" width="24" height="24" alt="Astra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Astra](https://jobo.world/company/Astra)
 
-* **[Infrastructure Design Engineer](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/Infrastructure-Design-Engineer_R0012234)** — _n/a_ _(posted 2025-06-04)_
 * **[IAM Analyst II](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-TX/IAM-Analyst-II_R0012501)** — _n/a_ _(posted 2025-06-04)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hlig8btjkeofmhnarcst.webp" width="24" height="24" alt="Atlan logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Atlan](https://jobo.world/company/Atlan)
@@ -98,11 +94,11 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xauolcu0ycnihp0pf12l.webp" width="24" height="24" alt="Coder logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coder](https://jobo.world/company/Coder)
 
-* **[Solutions Architect](https://jobs.ashbyhq.com/coder/78b8bba5-b828-435b-84a8-05ce16646b41)** — $60,000 – $90,000 USD _(posted 2025-05-15)_
+* **[Solutions Architect](https://jobs.ashbyhq.com/coder/78b8bba5-b828-435b-84a8-05ce16646b41)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/symqcmzorw4ic7vn8vzg.webp" width="24" height="24" alt="Cognite logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cognite](https://jobo.world/company/Cognite)
 
-* **[Senior Solution Architect](https://jobs.lever.co/cognite/35917535-e9e8-4eac-a0d9-7c0e90fe8a6b)** — $150,000 – $220,000 USD _(posted 2025-05-14)_
+* **[Senior Solution Architect](https://jobs.lever.co/cognite/35917535-e9e8-4eac-a0d9-7c0e90fe8a6b)** — ¤150,000 – ¤220,000 USD _(posted 2025-05-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ebxwexlgheqnbip7vzmv.webp" width="24" height="24" alt="ConnectWise logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ConnectWise](https://jobo.world/company/ConnectWise)
 
@@ -117,6 +113,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fzlotl53009yjfbklmgi.webp" width="24" height="24" alt="DevRev logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DevRev](https://jobo.world/company/DevRev)
 
 * **[Forward Deployed Engineer - Architect](https://job-boards.greenhouse.io/devrev/jobs/5554325004)** — _n/a_ _(posted 2025-05-31)_
+* **[Architect- Applied AI Engineer](https://job-boards.greenhouse.io/devrev/jobs/5528192004)** — _n/a_ _(posted 2025-04-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uy3ifw1k0xtbsujpqhns.webp" width="24" height="24" alt="Dick's Sporting Goods logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dick's Sporting Goods](https://jobo.world/company/Dicks-Sporting-Goods)
 
@@ -140,7 +137,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r7kzebg3baked8orrdyb.webp" width="24" height="24" alt="Flatfile logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flatfile](https://jobo.world/company/Flatfile)
 
-* **[Solutions Architect](https://jobs.ashbyhq.com/flatfile/6d913097-d35e-49d6-a6ba-ade165bd1bd3)** — $160,000 – $190,000 USD _(posted 2025-06-11)_
+* **[Solutions Architect](https://jobs.ashbyhq.com/flatfile/6d913097-d35e-49d6-a6ba-ade165bd1bd3)** — ¤160,000 – ¤190,000 USD _(posted 2025-06-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ttt7yt8jgmemfkliscye.webp" width="24" height="24" alt="Forward Networks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Forward Networks](https://jobo.world/company/Forward-Networks)
 
@@ -160,7 +157,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/duudfzm9nsk8vg5zdvws.webp" width="24" height="24" alt="Grafana Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Grafana Labs](https://jobo.world/company/Grafana-Labs)
 
-* **[Manager, Solutions Architect CST (Remote, USA)](https://boards.greenhouse.io/grafanalabs/jobs/5461431004)** — $174,000 – $214,000 USD _(posted 2025-03-14)_
+* **[Manager, Solutions Architect CST (Remote, USA)](https://boards.greenhouse.io/grafanalabs/jobs/5461431004)** — ¤174,000 – ¤214,000 USD _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ojqrzbjpfmbgsm9qtfzl.webp" width="24" height="24" alt="IDMWORKS logo" style="vertical-align:middle"/>&nbsp;&nbsp;[IDMWORKS](https://jobo.world/company/IDMWORKS)
 
@@ -193,14 +190,14 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
 
 * **[NOC Technician, Public Sector](https://jobs.ashbyhq.com/openai/7214281c-9bda-4e52-93f6-fbb9f8787c25)** — _n/a_ _(posted 2025-04-18)_
-* **[Security Engineer, Data Center Security](https://jobs.ashbyhq.com/openai/4efa5099-9fc6-459b-8ace-c47fb8677f90)** — $346,500 – $465,000 USD _(posted 2025-03-12)_
-* **[Security Engineer, Cloud Security](https://jobs.ashbyhq.com/openai/1705c3b2-7f3a-42bf-99a9-c23ba161a90d)** — $279,000 – $385,000 USD _(posted 2025-03-12)_
+* **[Security Engineer, Data Center Security](https://jobs.ashbyhq.com/openai/4efa5099-9fc6-459b-8ace-c47fb8677f90)** — ¤346,500 – ¤465,000 USD _(posted 2025-03-12)_
+* **[Security Engineer, Cloud Security](https://jobs.ashbyhq.com/openai/1705c3b2-7f3a-42bf-99a9-c23ba161a90d)** — ¤279,000 – ¤385,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ltac3krwfzg3q6rnaqpw.webp" width="24" height="24" alt="Palo Alto Networks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Palo Alto Networks](https://jobo.world/company/Palo-Alto-Networks)
 
 * **[Sr. Professional Services Consultant, NGFW](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000060049895-sr-professional-services-consultant-ngfw?oga=true)** — _n/a_ _(posted 2025-05-16)_
 * **[Named Account Manager](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000059786279-named-account-manager?oga=true)** — _n/a_ _(posted 2025-05-15)_
-* **[Regional Sales Manager - Intel](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000059734376-regional-sales-manager-intel?oga=true)** — $140,000 – $200,000 USD _(posted 2025-05-15)_
+* **[Regional Sales Manager - Intel](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000059734376-regional-sales-manager-intel?oga=true)** — ¤140,000 – ¤200,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bg3fng0ltvro0huju6mf.webp" width="24" height="24" alt="paytroniz logo" style="vertical-align:middle"/>&nbsp;&nbsp;[paytroniz](https://jobo.world/company/paytroniz)
 
@@ -218,9 +215,9 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Principal Enterprise Architect](https://jobs.lever.co/pointclickcare/5a5cc44e-e8ba-46d1-8e08-cffe68b90ac9)** — _n/a_ _(posted 2025-05-02)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/a61hmhggbfcks5bfjcu6.webp" width="24" height="24" alt="Red Canary logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Red Canary](https://jobo.world/company/RedCanary)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tckn4lxm8tiyawnuibs4.webp" width="24" height="24" alt="Protegrity logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Protegrity](https://jobo.world/company/Protegrity)
 
-* **[Sales Engineer - West](https://jobs.lever.co/redcanary/45059ed2-5302-49fe-8785-0efa001485fa)** — _n/a_ _(posted 2025-05-16)_
+* **[Application Architect Cloud 691](https://jobs.ashbyhq.com/protegrity/cb778f28-8d00-4865-aa51-a6642b615cf9)** — ¤201,000 – ¤257,000 USD _(posted 2025-06-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zznxo2xrsb1vzlwmdok0.webp" width="24" height="24" alt="Red Cell Partners logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Red Cell Partners](https://jobo.world/company/RedCellPartners)
 
@@ -233,7 +230,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdqj75zkufregvxkop0f.webp" width="24" height="24" alt="Rescale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rescale](https://jobo.world/company/Rescale)
 
 * **[Cyber Security Engineer IV](https://job-boards.greenhouse.io/regscale/jobs/4729920007)** — _n/a_ _(posted 2025-05-09)_
-* **[Network and Systems Administrator](https://jobs.ashbyhq.com/rescale/9f4d42de-e649-4919-9fea-c32b114ad297)** — $80,000 – $100,000 USD _(posted 2025-05-07)_
+* **[Network and Systems Administrator](https://jobs.ashbyhq.com/rescale/9f4d42de-e649-4919-9fea-c32b114ad297)** — ¤80,000 – ¤100,000 USD _(posted 2025-05-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hqzwsmenscskpexh3evu.webp" width="24" height="24" alt="Ro logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ro](https://jobo.world/company/Ro)
 
@@ -250,9 +247,9 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
 
+* **[Data Center Operations Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000064607165-data-center-operations-engineer?oga=true)** — _n/a_ _(posted 2025-06-11)_
 * **[Hardware Standards Engineer - Global Cloud Services](https://jobs.smartrecruiters.com/ServiceNow/744000064398175-hardware-standards-engineer-global-cloud-services?oga=true)** — _n/a_ _(posted 2025-06-10)_
 * **[Senior Enterprise Architect – Transportation & Logistics Industry Expert](https://jobs.smartrecruiters.com/ServiceNow/744000064388354-senior-enterprise-architect-transportation-logistics-industry-expert?oga=true)** — _n/a_ _(posted 2025-06-10)_
-* **[Principal Platform Architect](https://jobs.smartrecruiters.com/ServiceNow/744000063843834-principal-platform-architect?oga=true)** — _n/a_ _(posted 2025-06-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
@@ -326,4 +323,4 @@ Browse a wide range of remote Network Engineer positions available globally. New
 * **[Staff Network Engineer-Federal](https://job-boards.greenhouse.io/zscaler/jobs/4710728007)** — _n/a_ _(posted 2025-05-31)_
 
 ---
-_Updated automatically — 2025-06-12_
+_Updated automatically — 2025-06-13_
