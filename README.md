@@ -183,6 +183,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hesgrps2yoe7xg9xzzi0.webp" width="24" height="24" alt="M&T Bank logo" style="vertical-align:middle"/>&nbsp;&nbsp;[M&T Bank](https://jobo.world/company/M-And-T-Bank)
 
+* **[Cloud Architect](https://mtb.wd5.myworkdayjobs.com/mtb/job/Remote-USA/Cloud-Architect_R77050)** — _n/a_ _(posted 2025-06-13)_
 * **[Senior Solution Architect](https://mtb.wd5.myworkdayjobs.com/mtb/job/Remote-USA/Senior-Solution-Architect_R76234)** — _n/a_ _(posted 2025-05-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iuhpcceshtzjaftxt8fh.webp" width="24" height="24" alt="Manifold Bio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Manifold Bio](https://jobo.world/company/ManifoldBio)
@@ -242,6 +243,10 @@ Browse a wide range of remote Network Engineer positions available globally. New
 * **[Cyber Security Engineer IV](https://job-boards.greenhouse.io/regscale/jobs/4729920007)** — _n/a_ _(posted 2025-05-09)_
 * **[Network and Systems Administrator](https://jobs.ashbyhq.com/rescale/9f4d42de-e649-4919-9fea-c32b114ad297)** — ¤80,000 – ¤100,000 USD _(posted 2025-05-07)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qhsg2qigfcqwzu4ffuiv.webp" width="24" height="24" alt="RingCentral logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RingCentral](https://jobo.world/company/RingCentral)
+
+* **[Applications Solutions Architect](https://ringcentral.wd1.myworkdayjobs.com/ringcentral_careers/job/Remote-USA/Applications-Solutions-Architect_R075816)** — _n/a_ _(posted 2025-06-13)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hqzwsmenscskpexh3evu.webp" width="24" height="24" alt="Ro logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ro](https://jobo.world/company/Ro)
 
 * **[Senior Security Engineer](https://jobs.lever.co/ro/dc9c3cc3-bdef-42f2-8c40-6321050776f4)** — _n/a_ _(posted 2025-06-06)_
@@ -258,8 +263,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
 
 * **[Data Center Operations Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000064607165-data-center-operations-engineer?oga=true)** — _n/a_ _(posted 2025-06-11)_
-* **[Hardware Standards Engineer - Global Cloud Services](https://jobs.smartrecruiters.com/ServiceNow/744000064398175-hardware-standards-engineer-global-cloud-services?oga=true)** — _n/a_ _(posted 2025-06-10)_
-* **[Senior Enterprise Architect – Transportation & Logistics Industry Expert](https://jobs.smartrecruiters.com/ServiceNow/744000064388354-senior-enterprise-architect-transportation-logistics-industry-expert?oga=true)** — _n/a_ _(posted 2025-06-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
@@ -277,10 +280,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Sales Engineer - West](https://job-boards.greenhouse.io/spycloud/jobs/6565478003)** — _n/a_ _(posted 2025-05-06)_
 * **[Sales Engineer - Northeast](https://job-boards.greenhouse.io/spycloud/jobs/6554440003)** — _n/a_ _(posted 2025-04-29)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nmpjang8hd7j1tvecltw.webp" width="24" height="24" alt="The Zebra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[The Zebra](https://jobo.world/company/The-Zebra)
-
-* **[Senior Software Engineer (Austin, TX)](https://jobs.ashbyhq.com%2Fthe%2520zebra%2F22d8a905-1d33-47c3-b841-8f53749fe809)** — _n/a_ _(posted 2025-05-31)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygnclnukk5vq4h7jcssi.webp" width="24" height="24" alt="TrueML logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TrueML](https://jobo.world/company/TrueML)
 
@@ -326,7 +325,8 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ulk9wbhbqzmd0lzi4e5e.webp" width="24" height="24" alt="Zscaler logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zscaler](https://jobo.world/company/Zscaler)
 
+* **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 * **[Staff Network Engineer-Federal](https://job-boards.greenhouse.io/zscaler/jobs/4710728007)** — _n/a_ _(posted 2025-05-31)_
 
 ---
-_Updated automatically — 2025-06-14_
+_Updated automatically — 2025-06-16_
