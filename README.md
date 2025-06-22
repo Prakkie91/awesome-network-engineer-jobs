@@ -40,7 +40,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p52hiqeoimb147fba2ym.webp" width="24" height="24" alt="Ambient.ai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ambient.ai](https://jobo.world/company/Ambient-AI)
 
-* **[Senior Sales Engineer](https://jobs.ashbyhq.com/ambient.ai/bbb82c69-cf0a-4934-8dce-7a42ec9f9395)** — _n/a_ _(posted 2025-05-31)_
 * **[Senior Sales Engineer](https://jobs.ashbyhq.com/ambient.ai/f6e159df-9a4d-43db-8049-757452eeb5e0)** — ¤120,000 – ¤150,000 USD _(posted 2025-05-31)_
 * **[Senior Sales Engineer](https://jobs.ashbyhq.com/ambient.ai/23295ce8-78de-499c-85d6-175e3bdd7988)** — _n/a_ _(posted 2025-05-29)_
 
@@ -86,6 +85,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/v4nmw4erngsn3upqrrer.webp" width="24" height="24" alt="Brightseed logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Brightseed](https://jobo.world/company/Brightseed)
 
+* **[Operations Technician II](https://jobs.smartrecruiters.com/Brightspeed/744000066391907-operations-technician-ii?oga=true)** — _n/a_ _(posted 2025-06-20)_
 * **[Program Manager, Engineering & Construction](https://jobs.smartrecruiters.com/Brightspeed/744000066160201-program-manager-engineering-construction?oga=true)** — _n/a_ _(posted 2025-06-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
@@ -162,6 +162,10 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/duudfzm9nsk8vg5zdvws.webp" width="24" height="24" alt="Grafana Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Grafana Labs](https://jobo.world/company/Grafana-Labs)
 
 * **[Manager, Solutions Architect CST (Remote, USA)](https://boards.greenhouse.io/grafanalabs/jobs/5461431004)** — ¤174,000 – ¤214,000 USD _(posted 2025-03-14)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p5mrogl6k08ucmfnxnkq.webp" width="24" height="24" alt="Groq logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Groq](https://jobo.world/company/Groq)
+
+* **[Principal Systems Architect](https://job-boards.greenhouse.io/groq/jobs/6616644003)** — _n/a_ _(posted 2025-06-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ojqrzbjpfmbgsm9qtfzl.webp" width="24" height="24" alt="IDMWORKS logo" style="vertical-align:middle"/>&nbsp;&nbsp;[IDMWORKS](https://jobo.world/company/IDMWORKS)
 
@@ -253,7 +257,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hqzwsmenscskpexh3evu.webp" width="24" height="24" alt="Ro logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ro](https://jobo.world/company/Ro)
 
 * **[Senior Security Engineer](https://jobs.lever.co/ro/dc9c3cc3-bdef-42f2-8c40-6321050776f4)** — _n/a_ _(posted 2025-06-06)_
-* **[Engineering Manager, Infrastructure](https://jobs.lever.co/ro/d4c94793-05fc-41ab-b7f9-2e13fc21f8c4)** — _n/a_ _(posted 2025-05-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vunepkbbyb0nzxuzmazf.webp" width="24" height="24" alt="Rogo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rogo](https://jobo.world/company/Rogo)
 
@@ -323,4 +326,4 @@ Browse a wide range of remote Network Engineer positions available globally. New
 * **[Staff Network Engineer-Federal](https://job-boards.greenhouse.io/zscaler/jobs/4710728007)** — _n/a_ _(posted 2025-05-31)_
 
 ---
-_Updated automatically — 2025-06-21_
+_Updated automatically — 2025-06-22_
