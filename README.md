@@ -49,7 +49,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wmk89815sfaplzwlwfj2.webp" width="24" height="24" alt="Arrow Electronics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arrow Electronics](https://jobo.world/company/Arrow-Electronics)
 
-* **[Technical Solutions Architect](https://arrow.wd1.myworkdayjobs.com/ac/job/US-NY-New-York-Remote-Employees/Technical-Solutions-Architect_R234684)** — _n/a_ _(posted 2025-06-24)_
 * **[Sales Engineer - Citrix](https://arrow.wd1.myworkdayjobs.com/ac/job/US-GA-Georgia-Remote-Employees/Sales-Engineer---Citrix_R233899)** — _n/a_ _(posted 2025-05-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ghqwpzuacelvxdn6zy1s.webp" width="24" height="24" alt="Artera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Artera](https://jobo.world/company/Artera)
@@ -185,6 +184,10 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Cloud Architect](https://mtb.wd5.myworkdayjobs.com/mtb/job/Remote-USA/Cloud-Architect_R77050)** — _n/a_ _(posted 2025-06-13)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ac0nmn8nizlavraea6ot.webp" width="24" height="24" alt="Meter logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Meter](https://jobo.world/company/Meter)
+
+* **[Support Engineering](https://job-boards.greenhouse.io/meter/jobs/4559773006)** — _n/a_ _(posted 2025-07-03)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kogqnv4vgt8acnmdxwg1.webp" width="24" height="24" alt="Model N logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Model N](https://jobo.world/company/Model-N)
 
 * **[Principal Data Architect](https://jobs.lever.co/modeln/ee79fca8-a70a-4ba0-940e-84bf205cd236)** — _n/a_ _(posted 2025-06-26)_
@@ -227,6 +230,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ouaczxlwlkcqf2eimdw2.webp" width="24" height="24" alt="PointClickCare logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PointClickCare](https://jobo.world/company/PointClickCare)
 
+* **[Principal Software Architect-Data Platform and AI](https://jobs.lever.co/pointclickcare/acaa4edb-7a92-4f07-b25c-d4e01426334e)** — _n/a_ _(posted 2025-06-23)_
 * **[Principal Enterprise Architect](https://jobs.lever.co/pointclickcare/5a5cc44e-e8ba-46d1-8e08-cffe68b90ac9)** — _n/a_ _(posted 2025-05-02)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tckn4lxm8tiyawnuibs4.webp" width="24" height="24" alt="Protegrity logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Protegrity](https://jobo.world/company/Protegrity)
@@ -240,7 +244,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdqj75zkufregvxkop0f.webp" width="24" height="24" alt="Rescale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rescale](https://jobo.world/company/Rescale)
 
 * **[Cyber Security Engineer IV](https://job-boards.greenhouse.io/regscale/jobs/4729920007)** — _n/a_ _(posted 2025-05-09)_
-* **[Network and Systems Administrator](https://jobs.ashbyhq.com/rescale/9f4d42de-e649-4919-9fea-c32b114ad297)** — ¤80,000 – ¤100,000 USD _(posted 2025-05-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xi7iziz3wk6eyva5r7qp.webp" width="24" height="24" alt="Research Innovations logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Research Innovations](https://jobo.world/company/Research-Innovations)
 
@@ -248,6 +251,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qhsg2qigfcqwzu4ffuiv.webp" width="24" height="24" alt="RingCentral logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RingCentral](https://jobo.world/company/RingCentral)
 
+* **[Senior Solutions Architect (Remote; Full Time; Multiple Openings)](https://ringcentral.wd1.myworkdayjobs.com/ringcentral_careers/job/Remote-USA/Senior-Solutions-Architect--Remote--Full-Time--Multiple-Openings-_R075925)** — _n/a_ _(posted 2025-07-01)_
 * **[Solutions Architect](https://ringcentral.wd1.myworkdayjobs.com/ringcentral_careers/job/Remote-USA/Solutions-Architect_R075859)** — _n/a_ _(posted 2025-06-23)_
 * **[Applications Solutions Architect](https://ringcentral.wd1.myworkdayjobs.com/ringcentral_careers/job/Remote-USA/Applications-Solutions-Architect_R075816)** — _n/a_ _(posted 2025-06-13)_
 
@@ -265,17 +269,9 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Solutions Architect](https://job-boards.greenhouse.io/sciencelogic/jobs/6961512)** — _n/a_ _(posted 2025-06-24)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
-
-* **[Principal Data Center Architect](https://jobs.smartrecruiters.com/ServiceNow/744000067276987-principal-data-center-architect?oga=true)** — _n/a_ _(posted 2025-06-26)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
 * **[Senior DevOps Engineer](https://jobs.ashbyhq.com/sgnlai/18368176-2755-476c-aa5b-880e9c1a6269)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtluyxvy2bihcc746mgd.webp" width="24" height="24" alt="Shift5 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Shift5](https://jobo.world/company/Shift5)
-
-* **[Field Engineer (Active Clearance Required)](https://boards.greenhouse.io/shift5/jobs/4337057004)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/x3idbiqxdupfbfe14agf.webp" width="24" height="24" alt="Smarsh logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Smarsh](https://jobo.world/company/Smarsh)
 
@@ -301,6 +297,10 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Software Architect](https://jobs.lever.co/versapay/42ab8489-0c06-49c5-b8c3-e84be44761dc)** — _n/a_ _(posted 2025-03-18)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o6ilnhybzosulwkqff2b.webp" width="24" height="24" alt="WatchGuard Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[WatchGuard Technologies](https://jobo.world/company/WatchGuard-Technologies,-Inc.)
+
+* **[National Partner Sales Engineer](https://jobs.lever.co/watchguard/6d2ff4bf-de19-425c-b53f-548c8588829c)** — _n/a_ _(posted 2025-07-02)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tfwk8ahh4lo34flcob83.webp" width="24" height="24" alt="WillowTree logo" style="vertical-align:middle"/>&nbsp;&nbsp;[WillowTree](https://jobo.world/company/WillowTree)
 
 * **[Manager, Solutions Architecture](https://job-boards.greenhouse.io/willowtree/jobs/5208464002)** — _n/a_ _(posted 2025-05-10)_
@@ -323,4 +323,4 @@ Browse a wide range of remote Network Engineer positions available globally. New
 * **[Staff Network Engineer-Federal](https://job-boards.greenhouse.io/zscaler/jobs/4710728007)** — _n/a_ _(posted 2025-05-31)_
 
 ---
-_Updated automatically — 2025-07-03_
+_Updated automatically — 2025-07-04_
