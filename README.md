@@ -143,10 +143,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Application Architect- MSI](https://baldwinriskpartners.wd1.myworkdayjobs.com/brp/job/Remote-US/Application-Architect--MSI_JR107526-1)** — _n/a_ _(posted 2025-03-28)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eeoffimwrazcwuzdmeak.webp" width="24" height="24" alt="Glia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Glia](https://jobo.world/company/Glia)
-
-* **[Solutions Architect](https://job-boards.greenhouse.io/glia/jobs/5477895004)** — _n/a_ _(posted 2025-04-15)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/duudfzm9nsk8vg5zdvws.webp" width="24" height="24" alt="Grafana Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Grafana Labs](https://jobo.world/company/Grafana-Labs)
 
 * **[Manager, Solutions Architect CST (Remote, USA)](https://boards.greenhouse.io/grafanalabs/jobs/5461431004)** — ¤174,000 – ¤214,000 USD _(posted 2025-03-14)_
@@ -183,6 +179,10 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hesgrps2yoe7xg9xzzi0.webp" width="24" height="24" alt="M&T Bank logo" style="vertical-align:middle"/>&nbsp;&nbsp;[M&T Bank](https://jobo.world/company/M-And-T-Bank)
 
 * **[Cloud Architect](https://mtb.wd5.myworkdayjobs.com/mtb/job/Remote-USA/Cloud-Architect_R77050)** — _n/a_ _(posted 2025-06-13)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iuhpcceshtzjaftxt8fh.webp" width="24" height="24" alt="Manifold Bio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Manifold Bio](https://jobo.world/company/ManifoldBio)
+
+* **[Senior Security Engineer](https://job-boards.greenhouse.io/manifoldai/jobs/6608251003)** — _n/a_ _(posted 2025-06-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ac0nmn8nizlavraea6ot.webp" width="24" height="24" alt="Meter logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Meter](https://jobo.world/company/Meter)
 
@@ -323,4 +323,4 @@ Browse a wide range of remote Network Engineer positions available globally. New
 * **[Staff Network Engineer-Federal](https://job-boards.greenhouse.io/zscaler/jobs/4710728007)** — _n/a_ _(posted 2025-05-31)_
 
 ---
-_Updated automatically — 2025-07-05_
+_Updated automatically — 2025-07-06_
