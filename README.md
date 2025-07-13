@@ -8,6 +8,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fas521kp6jmfndrua622.webp" width="24" height="24" alt="3cloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[3cloud](https://jobo.world/company/3cloud)
 
+* **[Architect - AI](https://job-boards.greenhouse.io/3cloud/jobs/8071669002)** — _n/a_ _(posted 2025-07-12)_
 * **[Senior Enterprise Architect – Healthcare](https://job-boards.greenhouse.io/3cloud/jobs/8056751002)** — _n/a_ _(posted 2025-07-01)_
 * **[Architect - Cloud Platform](https://job-boards.greenhouse.io/3cloud/jobs/7985803002)** — _n/a_ _(posted 2025-06-10)_
 * **[Senior Architect - Client Service](https://boards.greenhouse.io/3cloud/jobs/7968195002)** — _n/a_ _(posted 2025-04-23)_
@@ -15,7 +16,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xmfqb0jqv6sfguqgzjgy.webp" width="24" height="24" alt="Accurate Background logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Accurate Background](https://jobo.world/company/AccurateBG)
 
 * **[Cloud Engineering Architect](https://jobs.lever.co/accurate/eaa82f9d-a293-47ae-90c4-baae47164509)** — _n/a_ _(posted 2025-06-10)_
-* **[Database Engineering Architect](https://jobs.lever.co/accurate/3d638303-3b17-4d59-8a8c-f06496c3425d)** — _n/a_ _(posted 2025-06-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wmjvoqj8pj4ll1g3ecls.webp" width="24" height="24" alt="Adobe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Adobe](https://jobo.world/company/Adobe)
 
@@ -32,7 +32,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/arqrlkg67jupy2stbahu.webp" width="24" height="24" alt="Altium logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altium](https://jobo.world/company/Altium)
 
 * **[Professional Services Solutions Architect](https://job-boards.greenhouse.io/altium/jobs/4575053006)** — _n/a_ _(posted 2025-06-12)_
-* **[Senior Enterprise Solution Architect](https://job-boards.greenhouse.io/altium/jobs/4552330006)** — _n/a_ _(posted 2025-04-02)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p52hiqeoimb147fba2ym.webp" width="24" height="24" alt="Ambient.ai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ambient.ai](https://jobo.world/company/Ambient-AI)
 
@@ -89,13 +88,13 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Cloud - Azure Infra Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Cloud---Azure-Infra-Engineer_JR7798)** — _n/a_ _(posted 2025-05-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ga0g9epbwlf5czvr9y6j.webp" width="24" height="24" alt="Celo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Celo](https://jobo.world/company/Celo)
+
+* **[Data Architect ](https://jobs.smartrecruiters.com/Cielo2/744000070119595-data-architect-?oga=true)** — _n/a_ _(posted 2025-07-11)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xauolcu0ycnihp0pf12l.webp" width="24" height="24" alt="Coder logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coder](https://jobo.world/company/Coder)
 
 * **[Solutions Architect](https://jobs.ashbyhq.com/coder/78b8bba5-b828-435b-84a8-05ce16646b41)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/symqcmzorw4ic7vn8vzg.webp" width="24" height="24" alt="Cognite logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cognite](https://jobo.world/company/Cognite)
-
-* **[Senior Solution Architect](https://jobs.lever.co/cognite/35917535-e9e8-4eac-a0d9-7c0e90fe8a6b)** — ¤150,000 – ¤220,000 USD _(posted 2025-05-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u7hjbozvsqyuvjsjmyga.webp" width="24" height="24" alt="Cohesity logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cohesity](https://jobo.world/company/Cohesity)
 
@@ -133,10 +132,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Forward Deployed Software Engineer|  Solution Architect](https://jobs.ashbyhq.com/ema/ad30eb8b-f942-4fc2-b2e0-d31bf7977bc7)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fitj6r32co0te54kphau.webp" width="24" height="24" alt="EnergyHub logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EnergyHub](https://jobo.world/company/EnergyHub)
-
-* **[Senior Security Engineer](https://job-boards.greenhouse.io/energyhub/jobs/7990170002)** — _n/a_ _(posted 2025-05-22)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r7kzebg3baked8orrdyb.webp" width="24" height="24" alt="Flatfile logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flatfile](https://jobo.world/company/Flatfile)
 
 * **[Solutions Architect](https://jobs.ashbyhq.com/flatfile/6d913097-d35e-49d6-a6ba-ade165bd1bd3)** — ¤160,000 – ¤190,000 USD _(posted 2025-06-11)_
@@ -152,6 +147,11 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/duudfzm9nsk8vg5zdvws.webp" width="24" height="24" alt="Grafana Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Grafana Labs](https://jobo.world/company/Grafana-Labs)
 
 * **[Manager, Solutions Architect CST (Remote, USA)](https://boards.greenhouse.io/grafanalabs/jobs/5461431004)** — ¤174,000 – ¤214,000 USD _(posted 2025-03-14)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zgqcsfkldxiprozqirso.webp" width="24" height="24" alt="Granicus logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Granicus](https://jobo.world/company/Granicus)
+
+* **[Solution Architect](https://jobs.lever.co/granicus/942d34f0-8883-492d-88b3-a5c385af2bc9)** — _n/a_ _(posted 2025-07-11)_
+* **[Senior Solution Architect](https://jobs.lever.co/granicus/6f17b75c-0793-43d1-8907-4cba1eff4571)** — _n/a_ _(posted 2025-07-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p5mrogl6k08ucmfnxnkq.webp" width="24" height="24" alt="Groq logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Groq](https://jobo.world/company/Groq)
 
@@ -188,7 +188,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
 
-* **[Solution Architect, Sovereign AI](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Solution-Architect--Sovereign-AI_JR1999386)** — _n/a_ _(posted 2025-07-09)_
 * **[Solutions Architect, Higher Education and Research](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-PA-Remote/Solutions-Architect--Higher-Education-and-Research_JR1999501)** — _n/a_ _(posted 2025-07-08)_
 * **[Senior Solutions Architect - AI Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Remote/Senior-Solutions-Architect---AI-Infrastructure-Engineer_JR1998552)** — _n/a_ _(posted 2025-06-17)_
 * **[Solutions Architect, Ethernet Networking - NVIS](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Remote/Solutions-Architect--Ethernet-Networking---NVIS_JR1998614)** — _n/a_ _(posted 2025-06-16)_
@@ -274,14 +273,14 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Chief Architect](https://apply.workable.com/tetrascience/j/790DBA3B11/)** — _n/a_ _(posted 2025-06-24)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/doilbhf8ynrekodady3g.webp" width="24" height="24" alt="Twelve Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Twelve Labs](https://jobo.world/company/Twelve-Labs)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dmvqzs6uhmcatjim8iyc.webp" width="24" height="24" alt="True Zero Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[True Zero Technologies](https://jobo.world/company/TrueZeroTech)
 
-* **[Solutions Architect](https://jobs.ashbyhq.com/twelve-labs/02a88ff9-9274-44a0-961e-2f09347d564e)** — _n/a_ _(posted 2025-04-12)_
+* **[Azure Cloud Architect (R-00078)](https://jobs.lever.co/truezerotech/19b1b46d-c045-4aaf-bf7a-4b7e95dea5bc)** — _n/a_ _(posted 2025-07-11)_
+* **[Senior Cloud Security Architect (R-00079)](https://jobs.lever.co/truezerotech/ed5e2661-9610-4669-98ff-fdc68436a4a1)** — _n/a_ _(posted 2025-07-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vxd7unmtbvc48khifx89.webp" width="24" height="24" alt="UiPath logo" style="vertical-align:middle"/>&nbsp;&nbsp;[UiPath](https://jobo.world/company/UiPath)
 
 * **[Solution Architect ](https://jobs.ashbyhq.com/uipath/5f37d2ee-34c3-4618-a0e5-3c3cc1a526cb)** — ¤141,000 – ¤190,000 USD _(posted 2025-07-09)_
-* **[Solution Architect](https://jobs.ashbyhq.com/uipath/a42196f8-a386-4baf-be51-39dc73b1cb21)** — ¤141,000 – ¤190,000 USD _(posted 2025-07-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sgwms0lulplmqb4bercz.webp" width="24" height="24" alt="Universal Audio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Universal Audio](https://jobo.world/company/UniversalAudio)
 
@@ -317,7 +316,8 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ulk9wbhbqzmd0lzi4e5e.webp" width="24" height="24" alt="Zscaler logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zscaler](https://jobo.world/company/Zscaler)
 
+* **[Staff Network Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4783977007)** — _n/a_ _(posted 2025-07-12)_
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-12_
+_Updated automatically — 2025-07-13_
