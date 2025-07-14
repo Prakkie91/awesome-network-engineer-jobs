@@ -132,6 +132,10 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Forward Deployed Software Engineer|  Solution Architect](https://jobs.ashbyhq.com/ema/ad30eb8b-f942-4fc2-b2e0-d31bf7977bc7)** — _n/a_ _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fitj6r32co0te54kphau.webp" width="24" height="24" alt="EnergyHub logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EnergyHub](https://jobo.world/company/EnergyHub)
+
+* **[Senior Security Engineer](https://job-boards.greenhouse.io/energyhub/jobs/7990170002)** — _n/a_ _(posted 2025-05-22)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r7kzebg3baked8orrdyb.webp" width="24" height="24" alt="Flatfile logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flatfile](https://jobo.world/company/Flatfile)
 
 * **[Solutions Architect](https://jobs.ashbyhq.com/flatfile/6d913097-d35e-49d6-a6ba-ade165bd1bd3)** — ¤160,000 – ¤190,000 USD _(posted 2025-06-11)_
@@ -143,10 +147,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eeoffimwrazcwuzdmeak.webp" width="24" height="24" alt="Glia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Glia](https://jobo.world/company/Glia)
 
 * **[Solutions Architect](https://job-boards.greenhouse.io/glia/jobs/5477895004)** — _n/a_ _(posted 2025-04-15)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/duudfzm9nsk8vg5zdvws.webp" width="24" height="24" alt="Grafana Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Grafana Labs](https://jobo.world/company/Grafana-Labs)
-
-* **[Manager, Solutions Architect CST (Remote, USA)](https://boards.greenhouse.io/grafanalabs/jobs/5461431004)** — ¤174,000 – ¤214,000 USD _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zgqcsfkldxiprozqirso.webp" width="24" height="24" alt="Granicus logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Granicus](https://jobo.world/company/Granicus)
 
@@ -320,4 +320,4 @@ Browse a wide range of remote Network Engineer positions available globally. New
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-13_
+_Updated automatically — 2025-07-14_
