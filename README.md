@@ -48,10 +48,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Cloud - Azure Infra Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Cloud---Azure-Infra-Engineer_JR7798)** — _n/a_ _(posted 2025-05-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ga0g9epbwlf5czvr9y6j.webp" width="24" height="24" alt="Celo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Celo](https://jobo.world/company/Celo)
-
-* **[Data Architect ](https://jobs.smartrecruiters.com/Cielo2/744000070119595-data-architect-?oga=true)** — _n/a_ _(posted 2025-07-11)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vrerphrfzimfknvp5loj.webp" width="24" height="24" alt="Certik logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Certik](https://jobo.world/company/Certik)
 
 * **[IT/Blockchain Infrastructure Engineer](https://jobs.lever.co/certik/b42541aa-625f-4f21-b29c-123f141fffb6)** — ¤70,000 – ¤120,000 USD _(posted 2024-12-20)_
@@ -247,6 +243,10 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Systems Architect](https://jobs.lever.co/reliable/b2ead667-547f-4217-b892-835d22f5874d)** — _n/a_ _(posted 2023-06-05)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="Republic Services logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Republic Services](https://jobo.world/company/Republic-Services)
+
+* **[Solutions Architect](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Solutions-Architect_R-156002-1)** — _n/a_ _(posted 2025-07-14)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qhsg2qigfcqwzu4ffuiv.webp" width="24" height="24" alt="RingCentral logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RingCentral](https://jobo.world/company/RingCentral)
 
 * **[VoIP Network Engineer (Remote; Full Time; Multiple Openings)](https://ringcentral.wd1.myworkdayjobs.com/ringcentral_careers/job/Remote-USA/VoIP-Network-Engineer--Remote--Full-Time--Multiple-Openings-_R075977)** — _n/a_ _(posted 2025-07-08)_
@@ -258,6 +258,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u3ko06mvu5nvizavxsix.webp" width="24" height="24" alt="RxSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RxSense](https://jobo.world/company/RxSense)
 
+* **[BI Architect](https://job-boards.greenhouse.io/rxsense/jobs/4585980005)** — _n/a_ _(posted 2025-07-15)_
 * **[Data Architect](https://job-boards.greenhouse.io/rxsense/jobs/4571142005)** — _n/a_ _(posted 2025-05-31)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q980vtbupbvhldx41hpg.webp" width="24" height="24" alt="ScienceLogic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ScienceLogic](https://jobo.world/company/ScienceLogic)
@@ -343,8 +344,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ulk9wbhbqzmd0lzi4e5e.webp" width="24" height="24" alt="Zscaler logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zscaler](https://jobo.world/company/Zscaler)
 
-* **[Staff Network Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4783977007)** — _n/a_ _(posted 2025-07-12)_
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-15_
+_Updated automatically — 2025-07-16_
