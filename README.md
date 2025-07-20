@@ -115,10 +115,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Forward Deployed Software Engineer|  Solution Architect](https://jobs.ashbyhq.com/ema/ad30eb8b-f942-4fc2-b2e0-d31bf7977bc7)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fitj6r32co0te54kphau.webp" width="24" height="24" alt="EnergyHub logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EnergyHub](https://jobo.world/company/EnergyHub)
-
-* **[Senior Security Engineer](https://job-boards.greenhouse.io/energyhub/jobs/7990170002)** — _n/a_ _(posted 2025-05-22)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gtjtouxxcis6gyjwklzz.webp" width="24" height="24" alt="Field Nation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Field Nation](https://jobo.world/company/Field-Nation)
 
 * **[Cloud Security Engineer](https://jobs.lever.co/fieldnation/3058da36-8611-4016-9277-1b68b1a051be)** — _n/a_ _(posted 2025-07-14)_
@@ -278,10 +274,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Sezzle Talent Community - General Interest](https://job-boards.greenhouse.io/sezzle/jobs/4678126003)** — _n/a_ _(posted 2025-04-26)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/omuszbxxi40zo5a3n10x.webp" width="24" height="24" alt="Snowflake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snowflake](https://jobo.world/company/Snowflake)
-
-* **[Solution Innovation Architect](https://jobs.ashbyhq.com/snowflake/b1575fef-a273-4a9a-a81b-c80422aea9e8)** — ¤95,000 – ¤138,800 USD _(posted 2025-06-18)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/msxoxo4ksiqqz5qsape7.webp" width="24" height="24" alt="SpyCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpyCloud](https://jobo.world/company/SpyCloud)
 
 * **[Security Engineer, Infrastructure Security](https://job-boards.greenhouse.io/spycloud/jobs/6605814003)** — _n/a_ _(posted 2025-06-13)_
@@ -315,6 +307,11 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Solution Architect ](https://jobs.ashbyhq.com/uipath/5f37d2ee-34c3-4618-a0e5-3c3cc1a526cb)** — ¤141,000 – ¤190,000 USD _(posted 2025-07-09)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/de6ctb8tmaxqgvzypnev.webp" width="24" height="24" alt="Unit 410 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Unit 410](https://jobo.world/company/Unit410)
+
+* **[Cryptocurrency Security Engineer ](https://jobs.ashbyhq.com/unit410/44cf103d-d698-4842-9e01-73fa57cbc8ec)** — ¤150,000 – ¤200,000 USD _(posted 2025-07-19)_
+* **[Cryptocurrency Infrastructure Engineer](https://jobs.ashbyhq.com/unit410/c9217e68-1bf8-4bc1-ad4a-67c5103b32b0)** — ¤150,000 – ¤200,000 USD _(posted 2025-07-19)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sgwms0lulplmqb4bercz.webp" width="24" height="24" alt="Universal Audio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Universal Audio](https://jobo.world/company/UniversalAudio)
 
 * **[NetSuite Architect](https://job-boards.greenhouse.io/universalaudio/jobs/4520127005)** — _n/a_ _(posted 2025-04-15)_
@@ -344,4 +341,4 @@ Browse a wide range of remote Network Engineer positions available globally. New
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-19_
+_Updated automatically — 2025-07-20_
