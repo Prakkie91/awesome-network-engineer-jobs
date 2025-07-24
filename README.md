@@ -70,9 +70,14 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Solution Architect](https://job-boards.greenhouse.io/connectwise/jobs/4534714005)** — _n/a_ _(posted 2025-04-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kykzfxasfpeekvubwfar.webp" width="24" height="24" alt="Coupa Software logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coupa Software](https://jobo.world/company/Coupa-Software)
+
+* **[Principal Platform Engineer, Data Architect - 10140](https://jobs.lever.co/coupa/760d1923-22ee-41de-a2ae-1d9503de73fc)** — _n/a_ _(posted 2025-05-06)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
 * **[Manager, Network Reliability Engineering (Remote, East Coast)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-FL/Manager--Network-Reliability-Engineering--Remote--East-Coast-_R23495)** — _n/a_ _(posted 2025-06-17)_
+* **[Regional Sales Engineer, PubSec (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CO/Regional-Sales-Engineer--PubSec--Remote-_R23124)** — _n/a_ _(posted 2025-05-06)_
 * **[Sr. Network Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Network-Engineer--Remote-_R22558)** — _n/a_ _(posted 2025-04-03)_
 * **[Principal Enterprise Network Architect (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Enterprise-Network-Architect--Remote-_R21838)** — _n/a_ _(posted 2025-02-26)_
 
@@ -96,7 +101,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/numhti7b6zfmpjeszdjp.webp" width="24" height="24" alt="Ditto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ditto](https://jobo.world/company/Ditto)
 
-* **[Senior Software Engineer- Networking Security](https://job-boards.greenhouse.io/dittoliveincorporated/jobs/4573746006)** — _n/a_ _(posted 2025-06-07)_
 * **[Product Manager-Networking](https://job-boards.greenhouse.io/dittoliveincorporated/jobs/4569453006)** — _n/a_ _(posted 2025-05-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rtyne9b2pdyqncaygzud.webp" width="24" height="24" alt="Earnest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Earnest](https://jobo.world/company/Earnest)
@@ -181,8 +185,8 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Senior Field Application Engineer](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Remote/Senior-Field-Application-Engineer_JR2000313)** — _n/a_ _(posted 2025-07-21)_
 * **[Senior Software Engineer, Networking Software](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-Remote/Senior-Software-Engineer--Networking-Software_JR1993230)** — _n/a_ _(posted 2025-07-15)_
+* **[Senior Field Application Engineer](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Remote/Senior-Field-Application-Engineer_JR1999968)** — _n/a_ _(posted 2025-07-14)_
 * **[Senior Solutions Architect - AI Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Remote/Senior-Solutions-Architect---AI-Infrastructure-Engineer_JR1998552)** — _n/a_ _(posted 2025-06-17)_
-* **[Solutions Architect, Ethernet Networking - NVIS](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Remote/Solutions-Architect--Ethernet-Networking---NVIS_JR1998614)** — _n/a_ _(posted 2025-06-16)_
 * **[Senior Solutions Architect, Industry Customer Success and Partnership – NVIS](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Senior-Solutions-Architect--Industry-Customer-Success-and-Partnership---NVIS_JR1998774)** — _n/a_ _(posted 2025-06-16)_
 * **[Senior Solutions Architect, HPC Systems Engineer](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Remote/Senior-Solutions-Architect--HPC-Systems-Engineer_JR1998307)** — _n/a_ _(posted 2025-06-04)_
 
@@ -291,10 +295,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Azure Cloud Architect (R-00078)](https://jobs.lever.co/truezerotech/19b1b46d-c045-4aaf-bf7a-4b7e95dea5bc)** — _n/a_ _(posted 2025-07-11)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/doilbhf8ynrekodady3g.webp" width="24" height="24" alt="Twelve Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Twelve Labs](https://jobo.world/company/Twelve-Labs)
-
-* **[Solutions Architect](https://jobs.ashbyhq.com/twelve-labs/02a88ff9-9274-44a0-961e-2f09347d564e)** — _n/a_ _(posted 2025-04-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vxd7unmtbvc48khifx89.webp" width="24" height="24" alt="UiPath logo" style="vertical-align:middle"/>&nbsp;&nbsp;[UiPath](https://jobo.world/company/UiPath)
 
 * **[Solution Architect ](https://jobs.ashbyhq.com/uipath/5f37d2ee-34c3-4618-a0e5-3c3cc1a526cb)** — ¤141,000 – ¤190,000 USD _(posted 2025-07-09)_
@@ -321,9 +321,9 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Senior Cybersecurity Engineer](https://jobs.ashbyhq.com/wander/4e417ae5-f73b-4096-8977-cd5c23d02960)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d7dueixfzg0r80wfv2va.webp" width="24" height="24" alt="Workwave logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Workwave](https://jobo.world/company/Workwave)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gfujrrwvqpdfryjn0v15.webp" width="24" height="24" alt="Weedmaps logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Weedmaps](https://jobo.world/company/Weedmaps)
 
-* **[Chief Architect](https://jobs.lever.co/workwave/d15d99c8-ba66-485e-b026-996cb5a310ad)** — _n/a_ _(posted 2025-06-06)_
+* **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iqozuicibuaieg1a9yky.webp" width="24" height="24" alt="Yubico logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Yubico](https://jobo.world/company/Yubico)
 
@@ -338,4 +338,4 @@ Browse a wide range of remote Network Engineer positions available globally. New
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-23_
+_Updated automatically — 2025-07-24_
