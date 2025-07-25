@@ -28,6 +28,10 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Cloud Security Engineer](https://job-boards.greenhouse.io/appspace/jobs/5589269004)** — _n/a_ _(posted 2025-07-18)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kvoglsnzr9qoignq1v12.webp" width="24" height="24" alt="Astra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Astra](https://jobo.world/company/Astra)
+
+* **[Project Manager - Telecom, Senior](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/Project-Manager---Telecom--Senior_R0012774)** — _n/a_ _(posted 2025-07-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lix4t9xeotpsufw7mosi.webp" width="24" height="24" alt="Astronomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Astronomer](https://jobo.world/company/Astronomer)
 
 * **[Cloud Solutions Architect, Infrastructure (Pacific)](https://jobs.ashbyhq.com/astronomer/4e5dac18-c6a8-46f4-94ad-d7fd9dbcb97b)** — _n/a_ _(posted 2025-06-27)_
@@ -317,10 +321,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Software Architect](https://jobs.lever.co/versapay/42ab8489-0c06-49c5-b8c3-e84be44761dc)** — _n/a_ _(posted 2025-03-18)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pymeafuvdduligbqec1b.webp" width="24" height="24" alt="Wander logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Wander](https://jobo.world/company/Wander)
-
-* **[Senior Cybersecurity Engineer](https://jobs.ashbyhq.com/wander/4e417ae5-f73b-4096-8977-cd5c23d02960)** — _n/a_ _(posted 2025-03-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gfujrrwvqpdfryjn0v15.webp" width="24" height="24" alt="Weedmaps logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Weedmaps](https://jobo.world/company/Weedmaps)
 
 * **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
@@ -338,4 +338,4 @@ Browse a wide range of remote Network Engineer positions available globally. New
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-24_
+_Updated automatically — 2025-07-25_
