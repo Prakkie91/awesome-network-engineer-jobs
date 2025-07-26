@@ -8,6 +8,8 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fas521kp6jmfndrua622.webp" width="24" height="24" alt="3cloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[3cloud](https://jobo.world/company/3cloud)
 
+* **[Architect - AI](https://job-boards.greenhouse.io/3cloud/jobs/8090330002)** — _n/a_ _(posted 2025-07-25)_
+* **[Cloud Architect - Infrastructure](https://job-boards.greenhouse.io/3cloud/jobs/7734056002)** — _n/a_ _(posted 2025-07-22)_
 * **[Architect - AI](https://job-boards.greenhouse.io/3cloud/jobs/8071669002)** — _n/a_ _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wmjvoqj8pj4ll1g3ecls.webp" width="24" height="24" alt="Adobe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Adobe](https://jobo.world/company/Adobe)
@@ -27,10 +29,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbjqngphisdkg1vj3ilm.webp" width="24" height="24" alt="Appspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Appspace](https://jobo.world/company/Appspace)
 
 * **[Cloud Security Engineer](https://job-boards.greenhouse.io/appspace/jobs/5589269004)** — _n/a_ _(posted 2025-07-18)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kvoglsnzr9qoignq1v12.webp" width="24" height="24" alt="Astra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Astra](https://jobo.world/company/Astra)
-
-* **[Project Manager - Telecom, Senior](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/Project-Manager---Telecom--Senior_R0012774)** — _n/a_ _(posted 2025-07-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lix4t9xeotpsufw7mosi.webp" width="24" height="24" alt="Astronomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Astronomer](https://jobo.world/company/Astronomer)
 
@@ -74,14 +72,9 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Solution Architect](https://job-boards.greenhouse.io/connectwise/jobs/4534714005)** — _n/a_ _(posted 2025-04-15)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kykzfxasfpeekvubwfar.webp" width="24" height="24" alt="Coupa Software logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coupa Software](https://jobo.world/company/Coupa-Software)
-
-* **[Principal Platform Engineer, Data Architect - 10140](https://jobs.lever.co/coupa/760d1923-22ee-41de-a2ae-1d9503de73fc)** — _n/a_ _(posted 2025-05-06)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
 * **[Manager, Network Reliability Engineering (Remote, East Coast)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-FL/Manager--Network-Reliability-Engineering--Remote--East-Coast-_R23495)** — _n/a_ _(posted 2025-06-17)_
-* **[Regional Sales Engineer, PubSec (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CO/Regional-Sales-Engineer--PubSec--Remote-_R23124)** — _n/a_ _(posted 2025-05-06)_
 * **[Sr. Network Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Network-Engineer--Remote-_R22558)** — _n/a_ _(posted 2025-04-03)_
 * **[Principal Enterprise Network Architect (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Enterprise-Network-Architect--Remote-_R21838)** — _n/a_ _(posted 2025-02-26)_
 
@@ -125,6 +118,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
+* **[IT Network Engineer](https://jobs.ashbyhq.com/flock%20safety/a996cf1c-e37c-49fc-80a7-4b1e97334c96)** — ¤120,000 – ¤130,000 USD _(posted 2025-07-24)_
 * **[Senior Software Engineer, Wireless Networking and Streaming ](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fad398eb6-cc22-448a-a692-c1c116469c3d)** — ¤149,600 – ¤187,000 USD _(posted 2025-07-22)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ylzw9qawu4pu9hp63rdv.webp" width="24" height="24" alt="Glean logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Glean](https://jobo.world/company/Glean)
@@ -171,9 +165,13 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Staff Engineer, Distributed Systems](https://job-boards.greenhouse.io/launchdarkly/jobs/6614984003)** — _n/a_ _(posted 2025-06-21)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iuhpcceshtzjaftxt8fh.webp" width="24" height="24" alt="Manifold Bio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Manifold Bio](https://jobo.world/company/ManifoldBio)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zqwdqarecv3wrvefdxy0.webp" width="24" height="24" alt="Life360 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Life360](https://jobo.world/company/Life360)
 
-* **[Senior Security Engineer](https://job-boards.greenhouse.io/manifoldai/jobs/6608251003)** — _n/a_ _(posted 2025-06-13)_
+* **[Senior Engineer, NSO (Network and Systems Operations)](https://job-boards.greenhouse.io/life360/jobs/8088925002)** — _n/a_ _(posted 2025-07-24)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ac0nmn8nizlavraea6ot.webp" width="24" height="24" alt="Meter logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Meter](https://jobo.world/company/Meter)
+
+* **[Network Engineer (with Data Focus) — Labeling &amp; Structuring Data for Autonomous Systems](https://job-boards.greenhouse.io/meter/jobs/4586864006)** — ¤104,000 – ¤208,000 USD _(posted 2025-07-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hm2rl7tsorbxxjehvpou.webp" width="24" height="24" alt="Mysten Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mysten Labs](https://jobo.world/company/Mysten-Labs)
 
@@ -218,6 +216,10 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bg3fng0ltvro0huju6mf.webp" width="24" height="24" alt="paytroniz logo" style="vertical-align:middle"/>&nbsp;&nbsp;[paytroniz](https://jobo.world/company/paytroniz)
 
 * **[Network Operations Center Lead Engineer](https://boards.greenhouse.io/paytronix/jobs/6783472)** — _n/a_ _(posted 2025-04-16)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fieozdkgodqccwlxz8fy.webp" width="24" height="24" alt="Planet logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Planet](https://jobo.world/company/Planet)
+
+* **[Senior Ground Station Engineer , Compute and Network](https://job-boards.greenhouse.io/planetlabs/jobs/7059197)** — _n/a_ _(posted 2025-07-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
 
@@ -280,7 +282,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cbqseb7qanoppr64ffdp.webp" width="24" height="24" alt="Tailscale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tailscale](https://jobo.world/company/Tailscale)
 
 * **[Software Engineer, Networking (Rust)](https://job-boards.greenhouse.io/tailscale/jobs/4586317005)** — _n/a_ _(posted 2025-07-16)_
-* **[Software Engineer, Identity](https://boards.greenhouse.io/tailscale/jobs/4549229005)** — _n/a_ _(posted 2025-04-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r40ajrc2uetxb7obycan.webp" width="24" height="24" alt="TetraScience logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TetraScience](https://jobo.world/company/TetraScience)
 
@@ -321,10 +322,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Software Architect](https://jobs.lever.co/versapay/42ab8489-0c06-49c5-b8c3-e84be44761dc)** — _n/a_ _(posted 2025-03-18)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gfujrrwvqpdfryjn0v15.webp" width="24" height="24" alt="Weedmaps logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Weedmaps](https://jobo.world/company/Weedmaps)
-
-* **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iqozuicibuaieg1a9yky.webp" width="24" height="24" alt="Yubico logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Yubico](https://jobo.world/company/Yubico)
 
 * **[Senior Sales Engineer / Solutions Engineer, Eastern](https://jobs.lever.co/yubico/a0117103-a958-42c1-ba58-7cae14ab2ab9)** — _n/a_ _(posted 2025-06-16)_
@@ -338,4 +335,4 @@ Browse a wide range of remote Network Engineer positions available globally. New
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-25_
+_Updated automatically — 2025-07-26_
