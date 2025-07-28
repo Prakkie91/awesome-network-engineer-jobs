@@ -10,7 +10,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Architect - AI](https://job-boards.greenhouse.io/3cloud/jobs/8090330002)** — _n/a_ _(posted 2025-07-25)_
 * **[Cloud Architect - Infrastructure](https://job-boards.greenhouse.io/3cloud/jobs/7734056002)** — _n/a_ _(posted 2025-07-22)_
-* **[Architect - AI](https://job-boards.greenhouse.io/3cloud/jobs/8071669002)** — _n/a_ _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wmjvoqj8pj4ll1g3ecls.webp" width="24" height="24" alt="Adobe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Adobe](https://jobo.world/company/Adobe)
 
@@ -148,6 +147,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
+* **[Provider Network Operations](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Provider-Network-Operations_R-382531)** — _n/a_ _(posted 2025-07-25)_
 * **[Network Operations Coordinator](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Minnesota/Network-Operations-Coordinator_R-381264)** — _n/a_ _(posted 2025-07-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kedn6sigetee1u7wlhfi.webp" width="24" height="24" alt="Hyperscience logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hyperscience](https://jobo.world/company/Hyperscience)
@@ -193,7 +193,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
 
-* **[Security Engineer, Data Center Security](https://jobs.ashbyhq.com/openai/4efa5099-9fc6-459b-8ace-c47fb8677f90)** — ¤346,500 – ¤465,000 USD _(posted 2025-03-12)_
 * **[Security Engineer, Cloud Security](https://jobs.ashbyhq.com/openai/1705c3b2-7f3a-42bf-99a9-c23ba161a90d)** — ¤279,000 – ¤385,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ltac3krwfzg3q6rnaqpw.webp" width="24" height="24" alt="Palo Alto Networks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Palo Alto Networks](https://jobo.world/company/Palo-Alto-Networks)
@@ -329,6 +328,10 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Professional Services Consultant ll (VCC)](https://job-boards.greenhouse.io/vonage/jobs/8054362002)** — _n/a_ _(posted 2025-07-26)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mwkz4xk7tqyotgsepjfp.webp" width="24" height="24" alt="WellSky logo" style="vertical-align:middle"/>&nbsp;&nbsp;[WellSky](https://jobo.world/company/WellSky)
+
+* **[Account Executive III - Connected Networks](https://wellsky.wd1.myworkdayjobs.com/wellskycareers/job/Remote---US/Account-Executive-III---Connected-Networks_JR3529-1)** — _n/a_ _(posted 2025-07-25)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iqozuicibuaieg1a9yky.webp" width="24" height="24" alt="Yubico logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Yubico](https://jobo.world/company/Yubico)
 
 * **[Senior Sales Engineer / Solutions Engineer, Eastern](https://jobs.lever.co/yubico/a0117103-a958-42c1-ba58-7cae14ab2ab9)** — _n/a_ _(posted 2025-06-16)_
@@ -338,4 +341,4 @@ Browse a wide range of remote Network Engineer positions available globally. New
 * **[Architect / Engineer - Marketing Technology](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Architect---Engineer---Marketing-Technology_R16933-1)** — _n/a_ _(posted 2025-07-21)_
 
 ---
-_Updated automatically — 2025-07-27_
+_Updated automatically — 2025-07-28_
