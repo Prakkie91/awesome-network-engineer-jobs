@@ -50,7 +50,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
 
 * **[Sr. Network Security Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Sr-Network-Security-Engineer_JR7991)** — _n/a_ _(posted 2025-07-15)_
-* **[Cloud - Azure Infra Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Cloud---Azure-Infra-Engineer_JR7799-1)** — _n/a_ _(posted 2025-07-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vrerphrfzimfknvp5loj.webp" width="24" height="24" alt="Certik logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Certik](https://jobo.world/company/Certik)
 
@@ -77,7 +76,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y1tseabvwxmu8boiolha.webp" width="24" height="24" alt="dbt Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[dbt Labs](https://jobo.world/company/dbtLabs)
 
 * **[Resident Architect](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4587468005)** — _n/a_ _(posted 2025-07-18)_
-* **[Senior Cloud Network Engineer II](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4579380005)** — _n/a_ _(posted 2025-06-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kmkx39mgdprsyv38qfhb.webp" width="24" height="24" alt="Devoted Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Devoted Health](https://jobo.world/company/Devoted-Health)
 
@@ -158,6 +156,10 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Senior Software Engineer - Rust - Backend ](https://jobs.ashbyhq.com/kraken.com/e9ed3620-2a9a-4a7d-a505-6f4a8efd4d7e)** — ¤135,000 – ¤203,000 USD _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
+
+* **[AWS Cloud Architect](https://job-boards.greenhouse.io/kunai/jobs/4791362007)** — _n/a_ _(posted 2025-07-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jwxdgigobys7pie3h5ns.webp" width="24" height="24" alt="LaunchDarkly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LaunchDarkly](https://jobo.world/company/LaunchDarkly)
 
 * **[Staff Engineer, Distributed Systems](https://job-boards.greenhouse.io/launchdarkly/jobs/6614984003)** — _n/a_ _(posted 2025-06-21)_
@@ -174,7 +176,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Software Engineer, Interop](https://jobs.ashbyhq.com/mystenlabs/aae62c8b-2cf5-497f-af02-1e814484a265)** — ¤200,000 – ¤225,000 USD _(posted 2025-06-21)_
 * **[Senior Software Engineer, Distributed Systems](https://jobs.ashbyhq.com/mystenlabs/25bcf8de-55f8-425f-bab4-bfad16e1d919)** — ¤150,000 – ¤225,000 USD _(posted 2025-04-26)_
-* **[Sr. Software Engineer, Walrus Core](https://jobs.ashbyhq.com/mystenlabs/0407024e-3bdf-4fd7-a974-07a5435b3e0e)** — ¤150,000 – ¤225,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
 
@@ -249,6 +250,10 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Solutions Architect](https://job-boards.greenhouse.io/sciencelogic/jobs/6961512)** — _n/a_ _(posted 2025-06-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpnegihud3dkfip35hd9.webp" width="24" height="24" alt="SentiLink logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SentiLink](https://jobo.world/company/SentiLink)
+
+* **[Senior Infrastructure Engineer](https://jobs.ashbyhq.com/sentilink/5a6b6c32-8cce-465f-aff0-8929df5bf4ec)** — _n/a_ _(posted 2025-07-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
 
 * **[Sr. Cloud Infrastructure Engineer](https://jobs.ashbyhq.com/serverobotics/84923368-9d5c-46d3-84a1-1c28c2645594)** — ¤150,000 – ¤200,000 USD _(posted 2025-03-12)_
@@ -300,6 +305,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dmvqzs6uhmcatjim8iyc.webp" width="24" height="24" alt="True Zero Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[True Zero Technologies](https://jobo.world/company/TrueZeroTech)
 
+* **[Firewall Engineer - Junior Level (R-00081)](https://jobs.lever.co/truezerotech/99fd9879-fe51-46d8-9a96-c55509a5b616)** — _n/a_ _(posted 2025-07-29)_
 * **[Azure Cloud Architect (R-00078)](https://jobs.lever.co/truezerotech/19b1b46d-c045-4aaf-bf7a-4b7e95dea5bc)** — _n/a_ _(posted 2025-07-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vxd7unmtbvc48khifx89.webp" width="24" height="24" alt="UiPath logo" style="vertical-align:middle"/>&nbsp;&nbsp;[UiPath](https://jobo.world/company/UiPath)
@@ -341,4 +347,4 @@ Browse a wide range of remote Network Engineer positions available globally. New
 * **[Architect / Engineer - Marketing Technology](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Architect---Engineer---Marketing-Technology_R16933-1)** — _n/a_ _(posted 2025-07-21)_
 
 ---
-_Updated automatically — 2025-07-30_
+_Updated automatically — 2025-07-31_
