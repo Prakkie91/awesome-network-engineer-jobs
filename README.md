@@ -102,6 +102,10 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Senior Security Engineer](https://job-boards.greenhouse.io/energyhub/jobs/7990170002)** — _n/a_ _(posted 2025-05-22)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
+
+* **[Cloud Data Architect & Engineer (Remote)](https://jobs.smartrecruiters.com/Experian/744000073649835-cloud-data-architect-engineer-remote-)** — _n/a_ _(posted 2025-07-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gtjtouxxcis6gyjwklzz.webp" width="24" height="24" alt="Field Nation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Field Nation](https://jobo.world/company/Field-Nation)
 
 * **[Cloud Security Engineer](https://jobs.lever.co/fieldnation/3058da36-8611-4016-9277-1b68b1a051be)** — _n/a_ _(posted 2025-07-14)_
@@ -176,6 +180,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Software Engineer, Interop](https://jobs.ashbyhq.com/mystenlabs/aae62c8b-2cf5-497f-af02-1e814484a265)** — ¤200,000 – ¤225,000 USD _(posted 2025-06-21)_
 * **[Senior Software Engineer, Distributed Systems](https://jobs.ashbyhq.com/mystenlabs/25bcf8de-55f8-425f-bab4-bfad16e1d919)** — ¤150,000 – ¤225,000 USD _(posted 2025-04-26)_
+* **[Sr. Software Engineer, Walrus Core](https://jobs.ashbyhq.com/mystenlabs/0407024e-3bdf-4fd7-a974-07a5435b3e0e)** — ¤150,000 – ¤225,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
 
@@ -183,7 +188,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
 
-* **[Senior Software Engineer, Networking Software](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-Remote/Senior-Software-Engineer--Networking-Software_JR1993230)** — _n/a_ _(posted 2025-07-15)_
 * **[Senior Solutions Architect - AI Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Remote/Senior-Solutions-Architect---AI-Infrastructure-Engineer_JR1998552)** — _n/a_ _(posted 2025-06-17)_
 * **[Senior Solutions Architect, Industry Customer Success and Partnership – NVIS](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Senior-Solutions-Architect--Industry-Customer-Success-and-Partnership---NVIS_JR1998774)** — _n/a_ _(posted 2025-06-16)_
 * **[Senior Solutions Architect, HPC Systems Engineer](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Remote/Senior-Solutions-Architect--HPC-Systems-Engineer_JR1998307)** — _n/a_ _(posted 2025-06-04)_
@@ -295,10 +299,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 * **[Chief Architect](https://apply.workable.com/tetrascience/j/790DBA3B11/)** — _n/a_ _(posted 2025-06-24)_
 * **[Platform Architect](https://apply.workable.com/tetrascience/j/05A2DE4B53/)** — _n/a_ _(posted 2024-09-26)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
-
-* **[Manager,  Site Network Marketing Operations](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/Manager---Site-Network-Marketing-Operations_R-01315860)** — _n/a_ _(posted 2025-05-09)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygnclnukk5vq4h7jcssi.webp" width="24" height="24" alt="TrueML logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TrueML](https://jobo.world/company/TrueML)
 
 * **[Staff Engineer, Communications](https://jobs.lever.co/trueml/42813e14-fd39-4cd0-bde2-102eeeb53eef)** — _n/a_ _(posted 2025-07-01)_
@@ -347,4 +347,4 @@ Browse a wide range of remote Network Engineer positions available globally. New
 * **[Architect / Engineer - Marketing Technology](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Architect---Engineer---Marketing-Technology_R16933-1)** — _n/a_ _(posted 2025-07-21)_
 
 ---
-_Updated automatically — 2025-07-31_
+_Updated automatically — 2025-08-01_
