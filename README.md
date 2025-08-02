@@ -116,6 +116,7 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
+* **[Senior Network Security Engineer](https://jobs.ashbyhq.com/flock%20safety/8d30bba8-98b0-4684-bada-95b73649684c)** — ¤130,000 – ¤170,000 USD _(posted 2025-08-01)_
 * **[IT Network Engineer](https://jobs.ashbyhq.com/flock%20safety/a996cf1c-e37c-49fc-80a7-4b1e97334c96)** — ¤120,000 – ¤130,000 USD _(posted 2025-07-24)_
 * **[Senior Software Engineer, Wireless Networking and Streaming ](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fad398eb6-cc22-448a-a692-c1c116469c3d)** — ¤149,600 – ¤187,000 USD _(posted 2025-07-22)_
 
@@ -180,7 +181,6 @@ Browse a wide range of remote Network Engineer positions available globally. New
 
 * **[Software Engineer, Interop](https://jobs.ashbyhq.com/mystenlabs/aae62c8b-2cf5-497f-af02-1e814484a265)** — ¤200,000 – ¤225,000 USD _(posted 2025-06-21)_
 * **[Senior Software Engineer, Distributed Systems](https://jobs.ashbyhq.com/mystenlabs/25bcf8de-55f8-425f-bab4-bfad16e1d919)** — ¤150,000 – ¤225,000 USD _(posted 2025-04-26)_
-* **[Sr. Software Engineer, Walrus Core](https://jobs.ashbyhq.com/mystenlabs/0407024e-3bdf-4fd7-a974-07a5435b3e0e)** — ¤150,000 – ¤225,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
 
@@ -347,4 +347,4 @@ Browse a wide range of remote Network Engineer positions available globally. New
 * **[Architect / Engineer - Marketing Technology](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Architect---Engineer---Marketing-Technology_R16933-1)** — _n/a_ _(posted 2025-07-21)_
 
 ---
-_Updated automatically — 2025-08-01_
+_Updated automatically — 2025-08-02_
